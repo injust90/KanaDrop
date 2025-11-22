@@ -1,0 +1,18 @@
+letters correspond to the 88 keys of the keyboard, increased to 92.
+
+Players learn with mneumonic association.
+
+あいうえお = A B C D E 
+
+Letters fall and the players type them out. A specific sound queue plays.
+
+Simplify
+
+- Raylib to create window
+- First create a flash card that recognizes romaji
+- Plays sounds when the player correctly inputs the character
+
+- [x] Create window
+- [x] Move objects down 
+- [ ] Add 日本語 font
+- [ ] Move font
