@@ -12,7 +12,13 @@ Simplify
 - First create a flash card that recognizes romaji
 - Plays sounds when the player correctly inputs the character
 
+Overview
 - [x] Create window
 - [x] Move objects down 
 - [ ] Add 日本語 font
-- [ ] Move font
+- [x] Move font
+- [ ] Player receives Japanese text to input
+- [ ] Player uses Romaji to input text
+
+Player receives Japanese
+- [ ] Create an input box for player
